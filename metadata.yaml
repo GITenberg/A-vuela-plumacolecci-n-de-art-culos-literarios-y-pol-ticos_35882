@@ -1,0 +1,48 @@
+_repo: A-vuela-plumacolecci-n-de-art-culos-literarios-y-pol-ticos_35882
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Valera, Juan
+    aliases:
+    - Galiano, Juan Valera y Alcala
+    - Galiano, Juan Valera y Alcalá
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '4923'
+    url: http://www.gutenberg.org/2009/agents/4923
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Juan_Valera
+    - http://en.wikipedia.org/wiki/Juan_Valera_y_Alcala_Galiano
+description: ''
+gutenberg_issued: '2011-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35882'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political science'
+- !lcc 'DP'
+- !lcsh 'Spain -- Politics and government'
+- !lcsh 'Spain'
+- !lcsh 'Spanish literature'
+- !lcsh 'Literature'
+- !lcc 'PN'
+tableOfContents: Prólogo -- Disonancias y armonías de la moral y de la estética --
+  Colección de manuscritos y otras antigüedades de Egipto pertenecientes al archiduque
+  Raniero -- De los autores portugueses que escribieron castellano -- Los jesuítas
+  de puertas adentro, ó un barrido hacia fuera en la Compañía de Jesús -- Sobre dos
+  tremendas acusaciones contra España, del anglo-americano Draper -- Los Estados Unidos
+  contra España -- Quejas de los rebeldes de Cuba -- Las alianzas -- Teatro libre
+  -- Fines del arte fuera del arte -- El maestro de Palmira -- Las rarezas del Fausto
+  -- La moral en el arte -- El regionalismo filológico en Galicia -- La obra póstuma
+  de Juan Montalvo -- El país de la castañeta -- Sobre la antología de poetas líricos
+  castellanos, de D. Marcelino Menéndez y Pelayo -- Mérito y fortuna -- Fe en la patria
+  -- La paz deseada -- La mediación de los Estados Unidos.
+title: 'A vuela pluma: colección de artículos literarios y políticos'
+url: http://www.gutenberg.org/ebooks/35882
